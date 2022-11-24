@@ -27,17 +27,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Screenshot (28).png)
+![](./ss.png)
 
 ### Links
 
-<<<<<<< HEAD
 - [Solution Code](https://github.com/AgniveshChaubey/frontend-price-grid-component.github.io)
 - [Live Site](https://agniveshchaubey.github.io/frontend-price-grid-component.github.io/)
-=======
-- Solution URL: [Add solution URL here](https://github.com/AgniveshChaubey/frontend-price-grid-component.github.io)
-- Live Site URL: [Add live site URL here](https://agniveshchaubey.github.io/frontend-price-grid-component.github.io/)
->>>>>>> 193f3e436d40c5f0f82f3f789c8d8608c49af1c1
 
 ## My process
 
