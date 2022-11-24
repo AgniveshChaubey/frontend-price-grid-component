@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.bg-color-test {
+    background: rgb(180, 248, 10);
+}
+
+.bg-1 {
+    background: hsl(179, 62%, 43%)
+        /* Grayish Blue: hsl(218, 22%, 67%) */
+}
+
+.bg-2 {
+    background: hsl(179, 81%, 56%)
+        /* Grayish Blue: hsl(218, 22%, 67%) */
+}
+
+
+.block {
+    display: block;
+    width: 100%;
+    border: none;
+    background: hsl(71, 73%, 54%);
+    padding: 14px 28px;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2);
+    margin: 0;
+
+}
+
+.card-shadow {
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.3);
+    border: none;
+}
+
+.heading-color {
+    color: hsl(179, 62%, 43%);
+}
+
+.desc-color {
+    color: hsl(71, 73%, 54%);
+}
+
+.desc2-color {
+    color: hsl(218, 22%, 67%);
+}
+
+.font-size {
+    font-size: 16px;
+}
+
+.font-style {
+    font-family: "Karla";
+    font-weight: 400, 700;
+}
+
+.bg-0 {
+    background-color: rgb(238, 238, 238);
+    ;
+}
+
+.container {
+    margin: 0;
+    padding: 0;
+    /* width: 50vw; */
+}
+
+/* .dimensionn{
+    width: 40vw;
+} */
+.row {
+    margin: 0;
+    padding: 0;
+}
+
+/* @media only screen and (max-width: 375px) {
+    .container {
+        width: auto;
+    }
+} */
