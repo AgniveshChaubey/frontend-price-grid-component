@@ -31,7 +31,21 @@
     text-align: center;
     box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2);
     margin: 0;
+}
 
+.btn-primary {
+    display: block;
+    width: 100%;
+    border: none;
+    background: hsl(71, 73%, 54%);
+    padding: 14px 28px;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2);
+    margin: 0;
 }
 
 .card-shadow {
