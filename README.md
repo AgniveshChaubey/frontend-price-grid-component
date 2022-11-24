@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/AgniveshChaubey/frontend-price-grid-component.github.io)
-- Live Site URL: [Add live site URL here](https://agniveshchaubey.github.io/frontend-price-grid-component.github.io/)
+- [Solution Code](https://github.com/AgniveshChaubey/frontend-price-grid-component.github.io)
+- [Live Site](https://agniveshchaubey.github.io/frontend-price-grid-component.github.io/)
 
 ## My process
 
