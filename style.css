@@ -82,9 +82,8 @@
 .container {
     margin: 0;
     padding: 0;
-    width: 50vw;
+    /* width: 50vw; */
 }
-
 /* .dimensionn{
     width: 40vw;
 } */
@@ -93,8 +92,8 @@
     padding: 0;
 }
 
-/* @media only screen and (max-width: 375px) {
+@media only screen and (max-width: 375px) {
     .container {
         width: auto;
     }
-} */
+}
