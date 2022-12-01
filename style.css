@@ -103,4 +103,14 @@ body {
     justify-content: center;
     flex-direction: column;
     min-height : 100vh;
+    /* max-width: 60vw; */
+}
+
+
+.max-width{
+    max-width: 25vw;
+}
+
+.max-width2{
+    max-width: 25vw;
 }
